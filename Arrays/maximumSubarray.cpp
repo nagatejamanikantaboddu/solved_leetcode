@@ -12,4 +12,4 @@ public:
         return maxsum;
     }
 };
-/*@manikanta*/
+/*@mani*/
