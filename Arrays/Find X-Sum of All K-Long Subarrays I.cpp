@@ -1,6 +1,6 @@
 // Problem: X Sum of All K Long Subarrays
 // Platform: LeetCode
-// Approach: Frequency Map + Sorting (Brute Force per Window)
+// Approach: Frequency Map + Sorting
 // Date: 2025-11-04
 // Time Complexity: O(N * K * logK)
 // Space Complexity: O(K)
